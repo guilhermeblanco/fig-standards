@@ -1,4 +1,4 @@
-# PHP Standards Group (aka. Framework Interoperabilit Group)
+# PHP Standards Group (aka. Framework Interoperability Group)
 
 ## Introduction
 
