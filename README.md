@@ -18,7 +18,7 @@ The specification working statuses are:
 
 - Step 1: Early Draft Review
 
-  > One an idea of a Recommendation is approved by Board, a group of experts 
+  > Once an idea of a Recommendation is approved by Board, a group of experts 
   > is formed to develop the first draft of the specification that Board can
   > review or add comments.
 
@@ -30,15 +30,15 @@ The specification working statuses are:
 
 - Step 3: Proposed Final Draft
 
-  > At this stage  of the draft specification, Board will approve and 
-  > specification group will use it as the basis for contract and sample
+  > At this stage  of the draft specification, the Board may approve it and 
+  > the specification group will use it as the basis for contract and sample
   > implementations (aka. as Reference Implementation and Technology 
   > Compatibility Kit).
 
 - Step 4: Final Release
 
   > The spec group then sees that the Reference Implementation (RI) and the 
-  > Technology Compatiblity Kit (TCK) are completed before sending to the Board
+  > Technology Compatibility Kit (TCK) are completed before sending to the Board
   > for final approval.
 
 Every Specification is organized by its current status. These statuses 
@@ -64,11 +64,11 @@ The specification approval statuses are:
 
 - Proposed
 
-  > Recommendations that are ready to be voted by Board
+  > Recommendations that are ready to be voted by the Board
 
 - Rejected
 
-  > Proposals that have been voted down by Board during Draft Approval, Board 
+  > Proposals that have been voted down by the Board during Draft Approval, Board 
   > Review or Final Approval.
 
 - Withdrawn
@@ -82,5 +82,8 @@ Github is the central point of support of FIG.
 
 Anyone is allowed to fork and add a document or even open a ticket proposing 
 a new PSR. 
-The Board then will be able to guide any contributor until the proposed idea 
+In addition, a Google mailing list is available for discussions. It can be found at 
+[FIG-standards](https://groups.google.com/forum/?fromgroups#!forum/php-standards)
+
+The Board will be able to guide any contributor until the proposed idea 
 becomes ready to be reviewed.
